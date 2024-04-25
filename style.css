@@ -1,13 +1,13 @@
 .xxximg {
     display: flex;
     filter: blur(1px);
-    width: 2%;
-    height:2%;
+    width: 5%;
+    height:5%;
         }
         @media screen and (max-width: 600px) {
             img {
-                width: 9%;
-                height:9%;
+                width: 10%;
+                height:10%;
             }
         }
 .modal {
