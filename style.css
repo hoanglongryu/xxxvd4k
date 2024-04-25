@@ -1,11 +1,15 @@
 .xxximg {
     display: flex;
-    width: 9%;
-    height: 9%;
     filter: blur(1px);
-    justify-content: center;
-    align-items: center;
-}
+    width: 2%;
+    height:2%;
+        }
+        @media screen and (max-width: 600px) {
+            img {
+                width: 9%;
+                height:9%;
+            }
+        }
 .modal {
     display: none;
     position: fixed;
