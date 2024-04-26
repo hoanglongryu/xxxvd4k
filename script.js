@@ -26,6 +26,6 @@ document.getElementById("myImage").onclick = function() {
 
         // Chuyển hướng sau 7 giây
         setTimeout(function(){
-            window.location.href = 'https://translate.google.com/?sl=vi&tl=en&text=th%E1%BA%B1ng%20d%C3%A2m%20I%E1%BB%93n&op=translate';
+            window.location.href = 'https://translate.google.com/?sl=en&tl=vi&text=you%20are%20Lustful%20guy%20Ion&op=translate';
          }, 7000);
 }
